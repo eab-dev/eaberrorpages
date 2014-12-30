@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<software>
+    <metadata>
+        <name>EAB Error pages</name>
+        <version>0.9.0</version>
+        <copyright>Copyright (C) 2009-2012 Enterprise AB Ltd</copyright>
+        <license>GNU General Public License v2.0</license>
+    </metadata>
+
+    <dependencies>
+        <extends>
+            <extension name="ezwebin" />
+            <extension name="ezdemo" />
+        </extends>
+    </dependencies>
+
+</software>

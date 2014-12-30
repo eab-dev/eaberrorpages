@@ -1,0 +1,8 @@
+<?php
+/*
+
+[RegionalSettings]
+TranslationExtensions[]=eaberrorpages
+
+*/
+?>
