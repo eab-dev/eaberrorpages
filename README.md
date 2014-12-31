@@ -5,7 +5,7 @@ eaberrorpages
 
 Simple eZ Publish legacy extension providing a template with a search box for "Page Not Found" errors.
 
-Translations in English, French and Chinese (simplified) are provided.
+Translations in English, French and Chinese (both simplified and traditional) are provided.
 
 ##Requirements
 
